@@ -1,0 +1,207 @@
+{
+  "created_at": "2026-11-07T23:51:44.636159+00:00",
+  "remote": "https://github.com/RonaldQiao/blue-wave-dc",
+  "remote_visibility_checked": "public",
+  "remote_upload_status": "Prepared for user-authorized public Git publication; verify repository commit when retrieving.",
+  "construction_export": {
+    "version": "2026-11-07T232402502698+0000-d4dbcd4a",
+    "export_directory": "/workspace/datacenter-construction/exports/2026-11-07T232402502698+0000-d4dbcd4a",
+    "review_signature": "0341cb2950d1ff17cbb0ea78f4e95f3c551742127ef705df8c0e8fab532424fa",
+    "created_at": "2026-11-07T23:24:04.121939+00:00"
+  },
+  "contents": "Reviewed output snapshots, final political audit, instructions and construction queue backup. Raw research evidence/history remains in original workspaces; this is not a full backup.",
+  "files": [
+    {
+      "path": "construction/PROJECT.md",
+      "bytes": 8743,
+      "sha256": "28cd2786e608f643c22e8cebc9108b1e7b93bd7462bb9d1dbd71404a73717423"
+    },
+    {
+      "path": "construction/WORKER.md",
+      "bytes": 5883,
+      "sha256": "db35cf9bf20e71b65fc82389e481d70e0eea7863e75dada4da484b10b9d141a5"
+    },
+    {
+      "path": "construction/AUTORUN.md",
+      "bytes": 16557,
+      "sha256": "cccf16c3dd37c7890f5d6df37e3324f3230b3eeb0dbdd9dd53c75f462d325116"
+    },
+    {
+      "path": "construction/MONITOR.md",
+      "bytes": 13603,
+      "sha256": "80a7660ffea977bb7e6c2806c19135bc250965e080c4612e8b9b75d053b52c90"
+    },
+    {
+      "path": "construction/data/dashboard-deployment.json",
+      "bytes": 864,
+      "sha256": "cb0b1fe44414c20835d86ec4549907d751f448415e5f382d0b1717d7de1b5ede"
+    },
+    {
+      "path": "political-stance/PROJECT.md",
+      "bytes": 15021,
+      "sha256": "6a71f07e94e52e44142a49db2871faafaf909c6e084b10e24197eaa9a4f093e4"
+    },
+    {
+      "path": "political-stance/FINAL-COVERAGE.md",
+      "bytes": 4287,
+      "sha256": "482bf072d2a595e85884ec26e39d5a2a6324c42de08a63150d14fb5db8f42c52"
+    },
+    {
+      "path": "political-stance/HOUSE-RESEARCH-INSTRUCTIONS.md",
+      "bytes": 3218,
+      "sha256": "08f3fe8119e8dabedc3c39f92e54592fbd4a888473714f58cb1b75ea8dda1126"
+    },
+    {
+      "path": "political-stance/NEW-SESSION-PROMPT.md",
+      "bytes": 3008,
+      "sha256": "40586d6a5462529254ef0237a4ee2ba4700ea67c8ce9e2224bf56ef5eabcc417"
+    },
+    {
+      "path": "political-stance/reviews/root-final-verification.json",
+      "bytes": 601,
+      "sha256": "3a78376ac7d360e65d0ec9b8d2c2958b0cf4c35411bb019c901e618f62b90a55"
+    },
+    {
+      "path": "construction/reviewed-export/accepted-source-closure.jsonl",
+      "bytes": 11970,
+      "sha256": "dd6c212919deb798d13d392ca3ba1ad08e05c36a70c87727ae841a00e82c2002"
+    },
+    {
+      "path": "construction/reviewed-export/coverage.json",
+      "bytes": 268458,
+      "sha256": "c371e247a6b158559e29004580694a7d00a9be454ac8567c39103bd4fa39870c"
+    },
+    {
+      "path": "construction/reviewed-export/manifest.json",
+      "bytes": 14456,
+      "sha256": "535c924c18d141c4dcd5af0ae52237d84bd5e6b11db6c1e5064632bb6ae1bbac"
+    },
+    {
+      "path": "construction/reviewed-export/reviewed-projects.csv",
+      "bytes": 17517663,
+      "sha256": "bfaccd181c675e5e59e26efaffb39eb6c3d23027052546081712a3c3cf39b472"
+    },
+    {
+      "path": "construction/reviewed-export/reviewed-projects.jsonl",
+      "bytes": 16933928,
+      "sha256": "1b38cd3defcf3814c332d38a0902fc9dd392051c99ebf6c32e8031118fd311df"
+    },
+    {
+      "path": "political-stance/data/reviewed-consolidated/20261106T052329Z/context.jsonl",
+      "bytes": 3412940,
+      "sha256": "e412743a11e01af04f25f9d0fbc62863ce5fe88ed6028e2e2eb110d83cf77a9f"
+    },
+    {
+      "path": "political-stance/data/reviewed-consolidated/20261106T052329Z/delegate-coverage.jsonl",
+      "bytes": 6046,
+      "sha256": "235b7cd89adfbd1f32b7ea72f6d0a13286c214ed87b6b34a45ed26c0a55fa5d7"
+    },
+    {
+      "path": "political-stance/data/reviewed-consolidated/20261106T052329Z/governor-coverage.jsonl",
+      "bytes": 180663,
+      "sha256": "e79387583abfa408c94ea4160bc3b04c13785a3978668430ce68a0852a1cbf3b"
+    },
+    {
+      "path": "political-stance/data/reviewed-consolidated/20261106T052329Z/holds.jsonl",
+      "bytes": 577353,
+      "sha256": "7588dba937e5bf54a4eca2d38d3f4cd296c545596009ecbf3fbdb55350f35564"
+    },
+    {
+      "path": "political-stance/data/reviewed-consolidated/20261106T052329Z/house-coverage.jsonl",
+      "bytes": 307469,
+      "sha256": "0153f4771cc44c16202c71f1fdb677fc3e2e725172b61932c2961f3d0091b30b"
+    },
+    {
+      "path": "political-stance/data/reviewed-consolidated/20261106T052329Z/manifest.json",
+      "bytes": 303298,
+      "sha256": "e9a642d4cc0e6f5fb196e1884f823dcd0cd362d979662006c9a826fe2b677776"
+    },
+    {
+      "path": "political-stance/data/reviewed-consolidated/20261106T052329Z/records.jsonl",
+      "bytes": 22035646,
+      "sha256": "72678efb8a0c0c12994341735822ac5422d751e2a3fcefd9e61e51b4300f3039"
+    },
+    {
+      "path": "political-stance/data/reviewed-consolidated/20261106T052329Z/review-verdicts.jsonl",
+      "bytes": 7548712,
+      "sha256": "fbf90bfc5937dc028ca83a054ee3eec3e78329f9bfb84829e03709d7fc9d70d4"
+    },
+    {
+      "path": "political-stance/data/reviewed-consolidated/20261106T052329Z/senate-coverage.jsonl",
+      "bytes": 272564,
+      "sha256": "352fcb0bb1ae23ee13216b267699fd96cf67bd93d0bdd5c3cbefbdc32579dfd3"
+    },
+    {
+      "path": "political-stance/data/roster-reviewed-versions/20261106T052331Z/coverage.jsonl",
+      "bytes": 199168,
+      "sha256": "fa2600be50d759b7d315736eea9ef0f15b896886bd7b08234463d9e25bb7920d"
+    },
+    {
+      "path": "political-stance/data/roster-reviewed-versions/20261106T052331Z/manifest.json",
+      "bytes": 10391,
+      "sha256": "785b89c59fcf2af7e0914498265667a01aa67aa871b29997223b75f14bda867b"
+    },
+    {
+      "path": "political-stance/data/roster-reviewed-versions/20261106T052331Z/nonvoting-baseline-separate.jsonl",
+      "bytes": 43572,
+      "sha256": "be6e161fe74f169ed5e66a80d515d3349fcbf0afd62d6de0a96a04422e78781c"
+    },
+    {
+      "path": "political-stance/data/roster-reviewed-versions/20261106T052331Z/state-seats-effective.jsonl",
+      "bytes": 3758297,
+      "sha256": "42665d7667223541beaf8270140aae2a7ab1bcfd531a045a723efdf6fddc0b75"
+    },
+    {
+      "path": "political-stance/data/roster-reviewed-versions/20261106T052331Z/updates.jsonl",
+      "bytes": 1685387,
+      "sha256": "07afa723a3ffb0afe7c322608fc4478137451df4d5057f6f716597ad23c7fe16"
+    },
+    {
+      "path": "political-stance/reviews/final-review6-audits/20261106T052333Z/clause-hold-index.jsonl",
+      "bytes": 554844,
+      "sha256": "8f226f25e3c8e6a99d173286c213865ba42cc1b0e3d600aca770f244393904e1"
+    },
+    {
+      "path": "political-stance/reviews/final-review6-audits/20261106T052333Z/explicit-scope-limits.jsonl",
+      "bytes": 1294,
+      "sha256": "58d5fd8e9d2b2604eaec7f40a16d3f24f432563c8b40f805244242bb7fb28125"
+    },
+    {
+      "path": "political-stance/reviews/final-review6-audits/20261106T052333Z/original-record-hash-verification.jsonl",
+      "bytes": 114871,
+      "sha256": "64fc5294a3afacee41144d29163006bd28c9ffab2f7d18faad1ba25be99476b0"
+    },
+    {
+      "path": "political-stance/reviews/final-review6-audits/20261106T052333Z/person-timing-ledger.jsonl",
+      "bytes": 1118405,
+      "sha256": "cc183ee5ebfd547cbd6fc1b6696a7efc95677a9903078633a023abfd2cc58681"
+    },
+    {
+      "path": "political-stance/reviews/final-review6-audits/20261106T052333Z/remaining-gaps.md",
+      "bytes": 7278,
+      "sha256": "0926233156842518b0a85e00fb98b974d579c9ee166f6e8e66448e3f4a2d4f9e"
+    },
+    {
+      "path": "political-stance/reviews/final-review6-audits/20261106T052333Z/seat-checklist.csv",
+      "bytes": 113110,
+      "sha256": "41b93956edbcf1a385df554c6d02514ef8903c4b80b3b7ed1b04d51bd3cfe158"
+    },
+    {
+      "path": "political-stance/reviews/final-review6-audits/20261106T052333Z/seat-checklist.jsonl",
+      "bytes": 1983616,
+      "sha256": "9e0a48a1581f82c820e934e873997cc1d122be4ccbd98fd04f70ad4a78d81072"
+    },
+    {
+      "path": "political-stance/reviews/final-review6-audits/20261106T052333Z/summary.json",
+      "bytes": 3641,
+      "sha256": "ef1363f10406a386949021006771f6eeeecb0396d96b7f3f6906473102df6faf"
+    }
+  ],
+  "queue_snapshot": {
+    "path": "construction-queue-snapshot.sqlite.gz",
+    "uncompressed_sha256": "39eea9195801a2278fe356017494ea969ecc8b6242d9b8699b53e0ad2924f5c0",
+    "warning": "Historical leases are not proof of runtime. Restore only into an empty environment; never overwrite newer queue."
+  },
+  "archive_sha256": "715d64cad24d6711fe5f71955704ed9c28dbde7f65ce30b68ebf0c6e3d99d6b1",
+  "public_publication_authorized": true
+}
