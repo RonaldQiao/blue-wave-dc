@@ -1,5 +1,9 @@
 # Blue-wave data-center research
 
+## Governor-specific public positions and evidence
+
+See [the 50-state governor summary](governors/GOVERNOR-PUBLIC-TAKES.md) and [the governor evidence guide](governors/README.md). The guide includes the original legal-capture bundle, source locators and review provenance. This governor slice is dated to the November 4, 2026 evidence cutoff; it is not a fresh election or policy update.
+
 Portable handoff for sharing between instances through https://github.com/RonaldQiao/blue-wave-dc. Public publication was explicitly authorized by the user. See LATEST-HANDOFF.json for the hash-verified reviewed-output archive and coherent construction queue snapshot.
 
 ## Original working files

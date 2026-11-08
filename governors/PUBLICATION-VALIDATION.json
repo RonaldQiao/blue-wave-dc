@@ -1,0 +1,27 @@
+{
+  "checked_at": "2026-11-08T00:08:01.969759+00:00",
+  "checks": [
+    "50 distinct state summaries and CSV/JSONL joins",
+    "48 reviewed identities; AK/KS unresolved preserved",
+    "all selected claim IDs join exact state and eligible reviewed record, excluding outgoing comparison",
+    "all evidence archive member SHA256 recomputed",
+    "all legal segments exact SHA256, government host, no mixed-source separator",
+    "summary evidence links are HTTP(S)",
+    "snapshot date and missing enactment/implementation scope disclosed"
+  ],
+  "source_workspace_unchanged": true,
+  "scope": "Publication validation of prior reviewed governor evidence; no fresh independent web review",
+  "archive_sha256": "ffe81291f3a8c4b6f365e86084d700ae4117aa8cf5639663c305678ea35287f8",
+  "coverage": {
+    "states": 50,
+    "known_incoming_or_holdover_identities": 48,
+    "unresolved_states": [
+      "US-GOV-AK",
+      "US-GOV-KS"
+    ],
+    "reviewed_claims": 584,
+    "held_clauses": 32,
+    "source_receipts": 537,
+    "legal_capture_segments": 161
+  }
+}
