@@ -1,5 +1,7 @@
 # Blue-wave data-center research
 
+Start with the newer [HANDOFF.md](HANDOFF.md) for the Cleanview report and cross-instance access. The hourly timer is OFF. LATEST-HANDOFF.json still points to the older November7 inventory archive; no newer full database snapshot has been published.
+
 ## Governor-specific public positions and evidence
 
 See [the 50-state governor summary](governors/GOVERNOR-PUBLIC-TAKES.md) and [the governor evidence guide](governors/README.md). The guide includes the original legal-capture bundle, source locators and review provenance. This governor slice is dated to the November 4, 2026 evidence cutoff; it is not a fresh election or policy update.

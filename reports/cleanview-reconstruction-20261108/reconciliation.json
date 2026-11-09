@@ -1,0 +1,22 @@
+{
+  "state_page_totals": {
+    "buildings": 4598,
+    "campuses": 1535,
+    "operating": 1419,
+    "under_construction": 570,
+    "planned": 2609,
+    "campuses_planned": 704,
+    "campuses_under_construction": 277,
+    "campuses_operating": 554
+  },
+  "national_map_minus_state_pages": {
+    "buildings": 3,
+    "campuses": 0,
+    "operating": 1,
+    "under_construction": 2,
+    "planned": 0
+  },
+  "coverage_other_status_residual": 112,
+  "coverage_three_status_minus_map": 16,
+  "scope": "Published counts only; no independent national building-level reconstruction."
+}
