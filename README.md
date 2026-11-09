@@ -1,6 +1,6 @@
 # Blue-wave data-center research
 
-Start with the newer [HANDOFF.md](HANDOFF.md) for the Cleanview report and cross-instance access. The hourly timer is OFF. LATEST-HANDOFF.json still points to the older November7 inventory archive; no newer full database snapshot has been published.
+Start with the newer [HANDOFF.md](HANDOFF.md) for the Cleanview report and cross-instance access. The hourly timer is OFF. [LATEST-HANDOFF.json](LATEST-HANDOFF.json) points to the approved newer reviewed-data/database archive; follow its restore instructions into an empty destination.
 
 ## Governor-specific public positions and evidence
 
@@ -22,7 +22,7 @@ Reviewed construction CSV/JSONL, coverage/manifest/source-ID closure; final poli
 
 ## Access from another instance
 
-Clone this repository, read LATEST-HANDOFF.json and the corresponding manifest, then extract reviewed-handoff.tar.gz into an empty research directory. This is a fixed snapshot; later local research is not automatically synced here.
+Clone this repository, read LATEST-HANDOFF.json and the corresponding manifest, then extract the archive named by the latest manifest into an empty research directory. This is a fixed snapshot; later local research is not automatically synced here.
 
 ## Resume safely
 

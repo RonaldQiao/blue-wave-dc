@@ -1,0 +1,171 @@
+{
+  "created_at": "2026-11-09T00:46:50.015596+00:00",
+  "scope": "Portable reviewed-output/report snapshot, not complete raw research backup",
+  "automation": "OFF; do not restart",
+  "construction_export": {
+    "version": "2026-11-08T212951175852+0000-c04506ac",
+    "export_directory": "/workspace/datacenter-construction/exports/2026-11-08T212951175852+0000-c04506ac",
+    "review_signature": "0b32a9261eb5dc4a7d0c52f3eb3c875e201fc9897f3e15547ba16fde739c3532",
+    "created_at": "2026-11-08T21:29:53.330145+00:00"
+  },
+  "archive": {
+    "path": "reviewed-snapshot.tar.gz",
+    "bytes": 16936282,
+    "sha256": "3a44f3c209f32c3a65712d73bd4f25ed19dcc9902cd95fed1d78e99298fe169a"
+  },
+  "files": [
+    {
+      "path": "datacenter-construction/AUTORUN.md",
+      "bytes": 20350,
+      "sha256": "e87356ba9ba57821cb67599af9cf424ff4fa9ae9df67409cc98590f9a57ec6af"
+    },
+    {
+      "path": "datacenter-construction/COVERAGE-LIMITATIONS-REVIEW.json",
+      "bytes": 252796,
+      "sha256": "bbea858d9dbe1b1463e141143468d50d62862d51b3a42ab340f5fa4545379e55"
+    },
+    {
+      "path": "datacenter-construction/COVERAGE-LIMITATIONS-REVIEW.md",
+      "bytes": 14524,
+      "sha256": "4f59a9bf929c7ad8e8a8d35b24eb0a52bdb7222124acb0fc05e709701047d59e"
+    },
+    {
+      "path": "datacenter-construction/HANDOFF.md",
+      "bytes": 10540,
+      "sha256": "7cc7a534f09121ecd243692addc3dec17272736c47114f29e4e1f0c72135b206"
+    },
+    {
+      "path": "datacenter-construction/MONITOR.md",
+      "bytes": 35288,
+      "sha256": "e4b1cd0a603045dab07b3810956b44c42b4d1c308cc28187a279c8412779e786"
+    },
+    {
+      "path": "datacenter-construction/PORTABLE-RESTORE-NOTES.md",
+      "bytes": 1495,
+      "sha256": "dab8f0bb40f89ccf1eab980610c68ac497a1755f3cb24d163601120b9c3f0a3e"
+    },
+    {
+      "path": "datacenter-construction/PROJECT.md",
+      "bytes": 8743,
+      "sha256": "28cd2786e608f643c22e8cebc9108b1e7b93bd7462bb9d1dbd71404a73717423"
+    },
+    {
+      "path": "datacenter-construction/WORKER.md",
+      "bytes": 5883,
+      "sha256": "db35cf9bf20e71b65fc82389e481d70e0eea7863e75dada4da484b10b9d141a5"
+    },
+    {
+      "path": "datacenter-construction/automation.json",
+      "bytes": 834,
+      "sha256": "d2b5ea604ebca19c340db246d360cafdcf15d579df7426f18a4f1dedf2dae512"
+    },
+    {
+      "path": "datacenter-construction/construction-queue.sqlite",
+      "bytes": 14004224,
+      "sha256": "8dfd93a40ad2fd1b49abe5bff33d0748df73af13145de1df15f0bcef1567c4f2"
+    },
+    {
+      "path": "datacenter-construction/exports/2026-11-08T212951175852+0000-c04506ac/accepted-source-closure.jsonl",
+      "bytes": 14352,
+      "sha256": "27524f9922e6dd9058d1feea07a2f380aa51c24683b6e6c90e27c19bef619634"
+    },
+    {
+      "path": "datacenter-construction/exports/2026-11-08T212951175852+0000-c04506ac/coverage.json",
+      "bytes": 268458,
+      "sha256": "c371e247a6b158559e29004580694a7d00a9be454ac8567c39103bd4fa39870c"
+    },
+    {
+      "path": "datacenter-construction/exports/2026-11-08T212951175852+0000-c04506ac/manifest.json",
+      "bytes": 14456,
+      "sha256": "343a838bb543adf1aca6db96593c6d43148cf05ece0d50e27fab053c1296ec98"
+    },
+    {
+      "path": "datacenter-construction/exports/2026-11-08T212951175852+0000-c04506ac/reviewed-projects.csv",
+      "bytes": 20600553,
+      "sha256": "d2e059bcc304c5361884aee50d30ba88644478ac89f47648afa1c11460db8cbd"
+    },
+    {
+      "path": "datacenter-construction/exports/2026-11-08T212951175852+0000-c04506ac/reviewed-projects.jsonl",
+      "bytes": 19691816,
+      "sha256": "9cbb25101af94f35f4855b30150fbe19f1fec1a46b583e9987d54bead185287b"
+    },
+    {
+      "path": "datacenter-construction/exports/latest.json",
+      "bytes": 304,
+      "sha256": "4e676ade38a41b77bb0ba3b7193c339bb81391122ebdadc760e574c0fc8f0b47"
+    },
+    {
+      "path": "datacenter-construction/reports/20261108T2053/RESEARCH-REPORT-AND-DATA.zip",
+      "bytes": 7110780,
+      "sha256": "063ac943334f96073b1d66a3a95d7b2282d7affe7ed951d23f2b3ac626c7f90d"
+    },
+    {
+      "path": "datacenter-construction/reports/20261108T2053/RESEARCH-REPORT.md",
+      "bytes": 45920,
+      "sha256": "72d0970a0795038472c48549018b8a6da38a77e88c74559889f2a28171722af3"
+    },
+    {
+      "path": "datacenter-construction/reports/20261108T2053/RESEARCH-REPORT.pdf",
+      "bytes": 170870,
+      "sha256": "25f38fd1091ff45349c43efa137ba7b48170cf8a032aa9ccd4acb14830f84b8f"
+    },
+    {
+      "path": "datacenter-construction/reports/cleanview-reconstruction-20261108/REPORT.md",
+      "bytes": 24688,
+      "sha256": "707186f4c9c7e4cb94090f7e12b78f22472ba755a50f03b977920b572aa641a5"
+    },
+    {
+      "path": "datacenter-construction/reports/cleanview-reconstruction-20261108/REPORT.pdf",
+      "bytes": 182589,
+      "sha256": "b922471bce6948d0a2c2c213243a78f207cd2374d36282ec5e40c6f61c9a7024"
+    },
+    {
+      "path": "datacenter-construction/reports/cleanview-reconstruction-20261108/RESEARCH-BUNDLE.zip",
+      "bytes": 382965,
+      "sha256": "397da44e6cdee79e3528db5dd61b2f4a3836c9402f7601a47ed39aceb9d27288"
+    },
+    {
+      "path": "datacenter-construction/reports/cleanview-reconstruction-20261108/provenance.json",
+      "bytes": 1388,
+      "sha256": "ab746ab196b3e81d115ed261c72decbc784387c6b653bead0a2e51650c0a453e"
+    },
+    {
+      "path": "datacenter-construction/reports/cleanview-reconstruction-20261108/reconciliation.json",
+      "bytes": 574,
+      "sha256": "0bd60f9a43fca98d83151b6834d96bd58023284f5dd0e8e9744477f28d3a2d08"
+    },
+    {
+      "path": "datacenter-construction/reports/cleanview-reconstruction-20261108/reconstruct_rollups.py",
+      "bytes": 4818,
+      "sha256": "c081fd38390ed95d704fa23892dbc220798968134da6070d1f517919c23c4718"
+    },
+    {
+      "path": "datacenter-construction/reports/cleanview-reconstruction-20261108/state-counts-top20.svg",
+      "bytes": 82152,
+      "sha256": "d3764f36e0cbe69c8bf8d43f4d783ed0150c29b0078b941fc68cba121dab1b03"
+    },
+    {
+      "path": "datacenter-construction/reports/cleanview-reconstruction-20261108/state-counts.csv",
+      "bytes": 5069,
+      "sha256": "d3bf925dc21cc4d8331c903710d68f9c13a53202f44a7270684df32f762f38b1"
+    },
+    {
+      "path": "datacenter-construction/reports/cleanview-reconstruction-20261108/state-counts.json",
+      "bytes": 19302,
+      "sha256": "f1905e5d3757d86b7ebd0f4986d3bfe79d8be69348a0454168741804c1812831"
+    },
+    {
+      "path": "datacenter-construction/reports/cleanview-reconstruction-20261108/verification.json",
+      "bytes": 502,
+      "sha256": "2c15e4c1ba1731e9617427beea750fa2c3436693cef2cfe54abab9ee32442692"
+    }
+  ],
+  "dispatcher_lock_in_snapshot": [
+    [
+      1,
+      null,
+      null
+    ]
+  ],
+  "publication": "Public disclosure of this exact reviewed-data and historical SQLite archive explicitly approved by user on November9,2026. Confirm repository commit/readback when retrieving."
+}

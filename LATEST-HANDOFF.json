@@ -1,5 +1,11 @@
 {
-  "directory": "handoff/20261107T235144Z",
-  "created_at": "2026-11-07T23:51:44.636159+00:00",
-  "delivery": "Public Git snapshot; no automatic research sync"
+  "directory": "handoff/20261109-portable",
+  "created_at": "2026-11-09T00:46:50.015596+00:00",
+  "published_scope": "Explicitly approved portable reviewed-output/report/database snapshot; not a complete raw-evidence backup",
+  "archive": "reviewed-snapshot.tar.gz",
+  "manifest": "manifest.json",
+  "archive_sha256": "3a44f3c209f32c3a65712d73bd4f25ed19dcc9902cd95fed1d78e99298fe169a",
+  "archive_bytes": 16936282,
+  "automation_enabled": false,
+  "restore_instructions": "handoff/20261109-portable/RESTORE.md"
 }
